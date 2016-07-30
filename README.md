@@ -14,10 +14,12 @@ const pokemon = require('pokemon-french');
 console.log(pokemon[0]); // Bulbizarre
 ```
 
-## Other Languages
-- [Japanese](https://github.com/oliver-j/pokemon-japanese)
-- [German](https://github.com/oliver-j/pokemon-german)
+## All available Languages
 - [English](https://github.com/oliver-j/pokemon-english)
+- [German](https://github.com/oliver-j/pokemon-german)
+- [French](https://github.com/oliver-j/pokemon-french)
+- [Korean](https://github.com/oliver-j/pokemon-korean)
+- [Japanese](https://github.com/oliver-j/pokemon-japanese)
 
 ## License
 
